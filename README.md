@@ -12,6 +12,7 @@ Reconhecer sempre.
 Nem todos os prêmios são merecidos e nem todos que merecem ganham. Então vale mesmo a pena, premiar?
 
 USO DOS COMANDOS SQL
+
 1)-Quantas vezes Natalie Portman foi indicada ao Oscar? R: Ela foi indicadas 3 vezes.
 QUERY EM SQL SELECT COUNT(*) FROM oscar WHERE name LIKE '%Natalie Portman%';
 
